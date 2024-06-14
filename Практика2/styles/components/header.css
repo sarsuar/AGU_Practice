@@ -1,0 +1,13 @@
+.header {
+    color: blueviolet;
+}
+
+.header .nav-bar{
+    font-size: 10px;
+}
+.header .main-div h1{
+    font-size: 30px;
+}
+.header .main-div h3{
+    font-size: 15px;
+}
